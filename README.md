@@ -7,7 +7,7 @@
 - **Experience Highlights:**  
   - Trained Small Language Models (SLMs)  
   - Worked with Azure **ML, AI and Copilot Studios**  
-  - Contributing to **Deep Learning Energy Reduction (DLER)**  
+  - Contributing to **Deep Learning Energy Research (DLER)** group, public releases later in year 2025  
 
 ### **Elastic & Versatile Engineer turned into Evangelist**  
 With three decades of software engineering experience, I bring perspective, adaptability, and innovative problem-solving to tackle challenges across AI and software development.  
