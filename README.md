@@ -1,27 +1,20 @@
+## 👋 Hi, I’m @EnergyAndy  
 
-- 👋 Hi, I’m @EnergyAndy
-- SW engineering veteran
-- Edge Devices and Computer Vision
-- Generative AI and AI in general
-- Sustainability
-- Latest: energy consumption in ML lifecycle
-- 
-- 
-- 
+**AI All-Rounder | Sustainability Advocate | Software Engineering Veteran**  
 
-- Let's retain the default stuff below for later use
-- 
-- 👀 I’m interested in ...
+- **AI Focus Areas:** Deep Learning, Generative AI, Computer Vision, Edge Devices  
+- **Sustainability Goals:** Advocating for standardized energy consumption metrics in AI development (using tools like **CodeCarbon**)  
+- **Experience Highlights:**  
+  - Trained Small Language Models (SLMs)  
+  - Worked with Azure **ML, AI and Copilot Studios**  
+  - Contributing to **Deep Learning Energy Reduction (DLER)**  
 
-- 🌱 I’m currently learning ...
+### **Elastic & Versatile Engineer turned into Evangelist**  
+With three decades of software engineering experience, I bring perspective, adaptability, and innovative problem-solving to tackle challenges across AI and software development.  
 
-- 💞️ I’m looking to collaborate on ...
+### **Current Focus**  
+🌿 **Standadizing Energy Efficiency Measurements in Machine Learning** — Building sustainable AI practices for the future.  
 
-- 📫 How to reach me ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 
 <!---
 EnergyAndy/EnergyAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
